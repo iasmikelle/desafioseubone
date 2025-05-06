@@ -4,15 +4,9 @@ Este repositório contém o processo de ETL (Extração, Transformação e Carga
 
 Arquivos no Repositório:
 
-notebooks/:
-
-Contém os arquivos Jupyter Notebook que executam o processo de ETL.
-
 etl seu bone.ipynb: Este notebook realiza a extração dos dados dos arquivos CSV, transforma as informações para garantir a qualidade dos dados (tratando valores nulos, formatando os tipos de dados, etc.) e carrega os dados preparados para análise.
 
-relatorios/:
-
-Este arquivo Power BI apresenta um único relatório com três páginas:
+desafio seu bone.pbix: Este arquivo Power BI apresenta um único relatório com três páginas:
 
 Página de Exportação 20 e 21: Exibe gráficos interativos e análises sobre as exportações de produtos, com destaque para os top 3 produtos exportados por estado e ano, entre outras métricas.
 
