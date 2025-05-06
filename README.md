@@ -14,6 +14,8 @@ Página de Importação 20 e 21: Exibe gráficos interativos e análises sobre a
 
 Página de Importação Mensal 21: Exibe gráficos interativos e análises sobre os top 3 produtos importados por estado e mês, entre outras métricas.
 
+O relatório também foi publicado online para melhor visualização, segue link: https://app.powerbi.com/view?r=eyJrIjoiM2YyYTg2MzctMzM4MS00OWE1LWFjZWEtMDg2ZmM2YzlmNDE1IiwidCI6Ijk3ZjA3YmI3LWNjZWMtNGQwYi05MTAyLTFlNzI2MWYzNzZhOSIsImMiOjR9
+
 Objetivo do Projeto:
 
 Realizar o processo de ETL para transformar os dados brutos em informações que podem ser analisadas e visualizadas de maneira clara e eficiente.
